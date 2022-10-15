@@ -58,3 +58,5 @@ Does the same thing as above but with a diffrent user (exscluding personal info 
 Lists all the users loaded, this is used so you can load people faster and this is what I used for my function
 <h2>getUserByUsername</h2>
 This was made by me so you dont have to get someones ID and its easier for people to use because it is a username, the old version only did the first person it found but I updated it so you can have as many users with the same username as you want and it wont break
+<h2>getToken</h2>
+gets your token, this is used for logging into your account and you can make a token logger with this
